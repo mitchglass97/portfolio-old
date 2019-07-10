@@ -1,6 +1,6 @@
 # portfolio
 
-A personal portfolio website for myself. Has a sticky sidebar and five full-height pages (home, about, skills, projects, contact) to scroll through.
+A personal portfolio website for myself. Has a sticky sidebar and five full-height pages (home, about, skills, projects, contact) to scroll or click through.
 
 Link to GitHub Pages: https://mitchglass97.github.io/portfolio/
 
