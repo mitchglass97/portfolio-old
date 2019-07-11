@@ -92,7 +92,7 @@ h4 {
 }
 
 .lightgreen {
-    color: rgb(197, 117, 144);
+    color: rgb(211, 140, 164);
 }
 
 #green {
@@ -307,6 +307,7 @@ nav ul {
 nav ul li {
     background-color: #9D6381;
     color: #FDECEF;
+    font-weight: 300;
 }
 
 nav ul li:hover, nav ul li:hover a{
