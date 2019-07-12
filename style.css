@@ -9,7 +9,7 @@
 body {
     line-height: 1.6;
     height: 100vh;
-    background-color: rgba(175, 218, 168, 0.534);
+    background-color: #9D6381;
     overflow: hidden;
 }
 
@@ -68,6 +68,27 @@ h4 {
     color: rgb(255, 109, 255);
 }
 
+#music-title {
+    padding: 50px 100px;
+    text-align: center;
+}
+
+.icon {
+    padding: 50px 50px;
+    width: 13%;
+}
+
+#music-container{
+    padding:0;
+    margin:0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+}
+
 .yellow {
     font-family: 'Source Code Pro', monospace;
     margin: auto;
@@ -94,10 +115,6 @@ h4 {
 
 .lightgreen {
     color: rgb(211, 140, 164);
-}
-
-#green {
-
 }
 
 .fix {
@@ -206,6 +223,20 @@ a {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 3fr 1fr;
+}
+
+#spotify {
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Source Code Pro', monospace;
+    /*margin: auto;*/
+    line-height: 1.5;
+    font-size: 0.4rem;
+    grid-row: 2/3;
+    grid-column: 1/4;
+    text-align: left;
+    white-space: pre;
+    color: rgb(52, 235, 235);
+    text-decoration: none;
 }
 
 #skills-title {
@@ -385,4 +416,14 @@ nav ul li:hover, nav ul li:hover a{
         align-items: center;
     }
 
+}
+
+#apple {
+    width: 50%;
+}
+
+container a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
