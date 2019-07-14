@@ -7,6 +7,6 @@ Link to GitHub Pages: https://mitchglass97.github.io/portfolio/
 ![Screen Shot 2019-07-14 at 12 34 58 PM](https://user-images.githubusercontent.com/52224377/61187144-d34b9680-a633-11e9-87a3-be93521abf9e.png)
 
 # to-do
-- [ ] work on responsiveness (especially for mobile)
+- [ ] work on responsiveness for mobile (especially the About page)
 
 
