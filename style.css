@@ -204,7 +204,7 @@ section#contact {
 }
 
 li a {
-    line-height: 15vh;
+    line-height: 10vh;
     display: block;
     background-color: #9D6381;
     color: #FDECEF;
@@ -334,6 +334,7 @@ nav ul {
     list-style-type: none;
     text-align: center;
     vertical-align: middle;
+    line-height: 0.1;
 }
 
 nav ul li {
@@ -346,6 +347,12 @@ nav ul li:hover, nav ul li:hover a{
     background-color: #FDECEF;
     color: #612940;
     cursor: pointer;
+}
+
+#logo:hover {
+    background-color: #9D6381;
+    color: #9D6381;
+    cursor: default;
 }
 
 .bold {
