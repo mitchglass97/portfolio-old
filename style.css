@@ -355,6 +355,12 @@ nav ul li:hover, nav ul li:hover a{
     cursor: default;
 }
 
+.responsive {
+    width: 70%;
+    max-width: 250px;
+    height: auto;
+}
+
 .bold {
     font-weight: 500;
 }
