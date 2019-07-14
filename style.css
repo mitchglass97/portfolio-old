@@ -356,7 +356,7 @@ nav ul li:hover, nav ul li:hover a{
 }
 
 .responsive {
-    width: 70%;
+    width: 50%;
     max-width: 250px;
     height: auto;
 }
