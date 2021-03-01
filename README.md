@@ -4,7 +4,7 @@ A personal portfolio website for myself. Has a sticky sidebar and five full-heig
 
 Link to GitHub Pages: https://mitchglass97.github.io/portfolio/
 
-![Screen Shot 2019-07-14 at 3 56 29 PM](https://user-images.githubusercontent.com/52224377/61189217-03a12e00-a650-11e9-9db3-cc8313258119.png)
+![Portfolio](https://user-images.githubusercontent.com/52224377/109450111-c13c8880-7a0f-11eb-8040-b0b642d0b77b.PNG)
 
 # to-do
 - [ ] work on responsiveness for mobile (especially the About page)
