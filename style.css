@@ -68,6 +68,18 @@ h4 {
     color: rgb(255, 109, 255);
 }
 
+.purple-dark {
+    font-family: 'Source Code Pro', monospace;
+    margin: auto;
+    line-height: 1.5;
+    font-size: 0.4rem;
+    grid-row: 2/3;
+    grid-column: 1/4;
+    text-align: left;
+    white-space: pre;
+    color: rgb(184, 0, 184);
+}
+
 #music-title {
     padding: 50px 100px;
     text-align: center;
